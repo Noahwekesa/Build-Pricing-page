@@ -1,4 +1,4 @@
-# Landing pricing page styled using tailwind css
+# Landing page styled using tailwind css
 
 Tailwind "v3.3.1"
 
